@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185796974935",
+    "project_id": "sampark-chat-app-e4ef5",
+    "storage_bucket": "sampark-chat-app-e4ef5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185796974935:android:16c628ea350411bc7a0612",
+        "android_client_info": {
+          "package_name": "com.example.sampark"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpz-bU-BVDbCrgKdnnp19hGQ3aOeSZ-Vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
